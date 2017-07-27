@@ -11,7 +11,7 @@ public class Check {
 	}
 	
 	public void error(List<String> error){
-//		error.add("Hi");
+		error.add("Hi");
 	}
 
 }
