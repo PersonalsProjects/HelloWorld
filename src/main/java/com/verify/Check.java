@@ -8,6 +8,7 @@ public class Check {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to the world Chethan");
 		System.out.println("Master check changed");
+		System.out.println("slave");
 	}
 	
 	public void error(List<String> error){
